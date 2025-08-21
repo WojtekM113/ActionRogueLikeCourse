@@ -13,9 +13,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="912a4670-2363-4dd4-a031-cf9c3a4528ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/ActionRogueLike/BP_MagicProjectile.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Input/MoveRight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Input/PrimaryAttack.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Input/TurnRight.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Input/TurnUp.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ActionRogueLike/Private/SMagicProjectile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ActionRogueLike/Public/SMagicProjectile.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ActionRogueLike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ActionRogueLike/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ActionRogueLike/Input/DefaultInput.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Input/DefaultInput.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ActionRogueLike/Input/TurnAround.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Input/TurnAround.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ActionRogueLike/Maps/BasicMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ActionRogueLike/Maps/BasicMap.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ActionRogueLike/PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ActionRogueLike/PlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ActionRogueLike/Private/SCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ActionRogueLike/Private/SCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ActionRogueLike/Public/SCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ActionRogueLike/Public/SCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +50,11 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://3" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/type_traits" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../EpicGamesLib/UE_5.6/Engine/Source/Runtime/CoreUObject/Public/Templates/Casts.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../EpicGamesLib/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/DefaultPawn.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../EpicGamesLib/UE_5.6/Engine/Source/Runtime/Engine/Private/KismetMathLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -63,6 +76,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -176,7 +190,8 @@
       <workItem from="1755608444784" duration="3000" />
       <workItem from="1755610005278" duration="88000" />
       <workItem from="1755610107377" duration="5471000" />
-      <workItem from="1755682725927" duration="441000" />
+      <workItem from="1755682725927" duration="7264000" />
+      <workItem from="1755777642372" duration="3992000" />
     </task>
     <servers />
   </component>
